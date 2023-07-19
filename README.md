@@ -1,0 +1,2 @@
+# tich
+kinh.vxz
